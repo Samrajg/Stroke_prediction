@@ -1,2 +1,11 @@
-# Stroke_prediction
-This Stroke Prediction App uses a Random Forest model to estimate stroke risk based on age, BMI, glucose level, heart disease, gender, and smoking status. Built with Streamlit and Python, it features a clean UI and local model for real-time health prediction.
+# 🧠 Stroke Prediction App
+
+This is a machine learning project built using Streamlit and Python. The app predicts the probability of a person having a stroke based on health data.
+
+## 🔍 Features
+- Predicts stroke risk based on age, gender, heart disease, glucose, BMI, and smoking.
+- User-friendly Streamlit UI with sliders and emojis.
+- Backend powered by Random Forest classifier.
+
+## 📁 Project Structure
+
