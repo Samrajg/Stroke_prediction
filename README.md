@@ -8,4 +8,9 @@ This is a machine learning project built using Streamlit and Python. The app pre
 - Backend powered by Random Forest classifier.
 
 ## 📁 Project Structure
-
+backend/
+├── model_training.py
+├── stroke_model.pkl
+├── label_encoders.pkl
+frontend/
+└── stroke_app.py
